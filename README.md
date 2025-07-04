@@ -3,7 +3,10 @@ This repository contains mini projects developed during the LLM Course.
 
 ---
 
+
 ## Product Image to Comment and SEO-Compliant Tag Generation Agent
+
+![Project Overview](assets/Image-to-Text-LLM-700x450.png)
 
 This project demonstrates an end-to-end pipeline for generating product comments and SEO-friendly tags from product images using state-of-the-art vision-language models and LLMs. The workflow is implemented in the notebook `Product_Image_To_Comment_And_Seo-Compliant_Tag_Generation_Agent.ipynb`.
 
